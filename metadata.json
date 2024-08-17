@@ -2,6 +2,8 @@
   "name": "fserlytha",
   "website": "https://sites.google.com/view/fserlyta/",
   "description": "lfg coinbase",
-  "logo": "https://raw.githubusercontent.com/FSerlyta/FSerlyta/main/fserlyta.jpg",
+  "logo": "https://raw.githubusercontent.com/FSerlyta/FSerlyta/main/fserlyta.png",
   "twitter": "https://x.com/Defas02"
+  "earnings_receiver_address" : "0x36eE5418E5f4878Ef83c32F67c92603b12eff04f"
 }
+
